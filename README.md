@@ -1,6 +1,6 @@
-# Google Software Product Sprint
+# Welcome to BetterBudget!
 
-This repo contains the projects you'll work on throughout SPS.
+BetterBudget is a simple and intuitive budgeting webapp for low-income individuals. This is a copy of the repository for Team 6 of Google SPS's group project.
 
 To get started:
 
